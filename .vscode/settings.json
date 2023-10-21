@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "Ws2.C": "cpp",
+        "stdio.h": "c",
+        "Bai2Bai.C": "cpp",
+        "btapArray.C": "cpp"
+    }
+}
