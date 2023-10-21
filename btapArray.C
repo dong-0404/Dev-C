@@ -80,5 +80,5 @@ int main() {
     YenNgua(a,r,c);
     // printf("\nAfter Soft:\n");
     // SortRow(a,r,c);
-    return 0;
+    
 }
